@@ -1,3 +1,4 @@
+//价值一个亿的AI算法，一般人我不告诉他
 import java.util.Scanner;
 
 public class MainAI {
