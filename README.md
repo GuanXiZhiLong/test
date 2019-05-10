@@ -1,2 +1,1 @@
-# test
-This is a test repository
+//请查看主AI
